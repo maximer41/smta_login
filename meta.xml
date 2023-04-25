@@ -1,0 +1,9 @@
+<meta>
+	<script src="c_login.lua" type="client" cache="false"/>
+	<script src="s_login.lua" type="server"/>
+	
+	<file src="files/intro.mp3"/>
+	<file src="files/login.png"/>
+
+	<export function="setCameraMode" type="client"/>
+</meta>
